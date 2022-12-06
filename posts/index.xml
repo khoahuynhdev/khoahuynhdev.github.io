@@ -3,12 +3,23 @@
         <title>All Posts - Khoahuynhdev</title>
         <link>https://khoahuynhdev.github.io/posts/</link>
         <description>All Posts | Khoahuynhdev</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 28 Jan 2021 21:36:57 &#43;0700</lastBuildDate><atom:link href="https://khoahuynhdev.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 06 Dec 2022 13:12:17 &#43;0700</lastBuildDate><atom:link href="https://khoahuynhdev.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Get Things Done</title>
+    <link>https://khoahuynhdev.github.io/posts/get-things-done/</link>
+    <pubDate>Tue, 06 Dec 2022 13:12:17 &#43;0700</pubDate>
+    <author>Author</author>
+    <guid>https://khoahuynhdev.github.io/posts/get-things-done/</guid>
+    <description><![CDATA[I firmly believe that &ldquo;get things done&rdquo; is one of the most important characteristics for software engineer.
+These are some insights(in any order) about &ldquo;get things done&rdquo; which I believe show me the importance of getting things done.
+Core value at GEEKUp
+Quality for hiring according to Joel Spolsky
+&ldquo;The primary thing when you take a sword in your hands is your intention to cut the enemy, whatever the means. Whenever you parry, hit, spring, strike or touch the enemy&rsquo;s cutting sword, you must cut the enemy in the same movement.]]></description>
+</item><item>
     <title>Hello World</title>
     <link>https://khoahuynhdev.github.io/posts/hello-world/</link>
     <pubDate>Thu, 28 Jan 2021 21:36:57 &#43;0700</pubDate>
     <author>Author</author>
     <guid>https://khoahuynhdev.github.io/posts/hello-world/</guid>
-    <description><![CDATA[Hello World ]]></description>
+    <description><![CDATA[Hello World]]></description>
 </item></channel>
 </rss>
